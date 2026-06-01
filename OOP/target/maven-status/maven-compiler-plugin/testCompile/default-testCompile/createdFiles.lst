@@ -1,0 +1,4 @@
+com\escape\combat\CombatSystemTest.class
+com\escape\command\CommandParserTest.class
+com\escape\entity\PlayerTest.class
+com\escape\world\WorldFactoryTest.class
