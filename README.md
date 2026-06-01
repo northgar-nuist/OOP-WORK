@@ -21,7 +21,7 @@ mvn test
 
 | Command | Alias |描述|
 |---------|-------|-------------|
-| `n` `` `e` `w` | north/south/east/west | Move between rooms |
+| n/s/e/w| north/south/east/west | Move between rooms |
 | `look` | `l` | Inspect the current room |
 | `take <item>` | `get` `pick` | Pick up an item |
 | `inventory` | `i` `bag` | View your backpack |
